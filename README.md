@@ -1,26 +1,14 @@
-### 🌱 I’m currently learning
+### Welcome to my Github profile
 
-<!--
-**curenosm/curenosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning more about software architecture, especifically the design of high scalable distributed systems.
+- 💬 Ask me about Java.
+- 📫 How to reach me: <curenosm@gmail.com>
+- 😄 Pronouns: He/him.
+- ⚡ Fun fact: When you clean a vacuum cleaner, aren't you the vacuum cleaner?
 
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=curenosm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curenosm&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=curenosm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=prs&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curenosm&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </p>
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=curenosm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=prs&show_icons=true)
