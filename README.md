@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=curenosm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curenosm&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=curenosm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curenosm&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=curenosm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=prs&show_icons=true)
