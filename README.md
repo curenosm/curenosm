@@ -4,7 +4,6 @@
 - 💬 Ask me about Java.
 - 📫 How to reach me: <curenosm@gmail.com>
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: When you clean a vacuum cleaner, aren't you the vacuum cleaner?
 
 📈 **My GitHub Stats:**
 
