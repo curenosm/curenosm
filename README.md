@@ -1,6 +1,6 @@
 ### Welcome to my Github profile
 
-- 🌱 I'm currently learning more about software architecture, especifically the design of highly scalable distributed systems.
+- 🌱 I'm currently learning more about software architecture, especifically the design of highly scalable distributed systems and programming languages design.
 - 💬 Ask me about Java.
 - 📫 How to reach me: <curenosm@gmail.com>
 - 😄 Pronouns: He/him.
