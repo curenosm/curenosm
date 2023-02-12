@@ -1,6 +1,6 @@
 ### Welcome to my Github profile
 
-- 🌱 I'm currently learning more about design patterns, programming languages design and software architecture, especifically the design of highly scalable distributed systems.
+- 🌱 I'm currently learning more about Programming Languages Design, Software Engineering, Graph Theory, AI and Evolutionary Computation.
 - 💬 Ask me about Java.
 - 📫 How to reach me: <curenosm@gmail.com>
 - 😄 Pronouns: He/him.
