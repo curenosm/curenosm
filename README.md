@@ -51,7 +51,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> 
   </a> 
   <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="clojure" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="racket" width="40" height="40"/>
   </a> 
   <a href="https://clojure.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="clojure" width="40" height="40"/>
