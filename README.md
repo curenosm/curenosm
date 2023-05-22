@@ -8,7 +8,7 @@
 
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=curenosm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs&rank_icon=github" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curenosm&layout=compact&langs_count=10&theme=dark&hide=shell,vim%20script"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curenosm&layout=compact&langs_count=10&theme=dark&hide=shell,vim%20script&hide_border=true"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
