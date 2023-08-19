@@ -1,6 +1,6 @@
 ### Welcome to my Github profile
 
-- 🌱 I'm currently learning more about Programming Languages Design, Software Engineering, Graph Theory, AI and Evolutionary Computation.
+- 🌱 I'm currently learning more about Compilers, Computer Networks, Operating Systems, Machine Learning, Cryptography and Computational Genomics.
 - 💬 Ask me about Java.
 - 😄 Pronouns: He/him.
 
