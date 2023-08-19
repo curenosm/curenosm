@@ -59,3 +59,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  alt="aws" width="40" height="40"/>
   </a>
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=inverso23&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=inverso23&redirect=true)
