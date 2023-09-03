@@ -7,8 +7,9 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=curenosm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs&rank_icon=github" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curenosm&layout=compact&langs_count=10&theme=dark&hide=shell,vim%20script&hide_border=true"/>
+  <img height="150em" src ="https://github-readme-streak-stats.herokuapp.com/?user=curenosm&theme=onedark&hide_border=true" />
+  <img height="150em" src ="https://github-readme-stats.vercel.app/api/?username=curenosm&theme=onedark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curenosm&theme=onedark&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=shell,vim%20script"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
