@@ -33,7 +33,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png" alt="rust" width="40" height="40"/>
+    <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40"/>
   </a>
   <a href="https://clojure.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="clojure" width="40" height="40"/>
