@@ -61,6 +61,14 @@
   </a> 
 </p>
 
+### Social
+
+<p>
+  <a href="https://youtube.com/@curenosm5524?si=MkRV3t_Qudav70jy" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>
+</p>
+
 ### Listening on Spotify:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=inverso23&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=inverso23&redirect=true)
