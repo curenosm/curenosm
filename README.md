@@ -54,10 +54,13 @@
   </a> 
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  alt="kubernetes" width="40" height="40"/>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  alt="aws" width="40" height="40"/>
-  </a>
   </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg"  alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg"  alt="aws" width="40" height="40"/>
+  </a>
 </p>
 
 ### Social
