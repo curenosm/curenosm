@@ -25,6 +25,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg"  alt="aws" width="40" height="40"/>
+  </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40"/>
   </a>
@@ -36,9 +39,6 @@
   </a>
   <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="racket" width="40" height="40"/>
-  </a>
-  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg"  alt="aws" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
