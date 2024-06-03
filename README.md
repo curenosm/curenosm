@@ -16,9 +16,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>   
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
@@ -37,14 +34,8 @@
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40"/>
   </a>
-  <a href="https://clojure.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="clojure" width="40" height="40"/>
-  </a> 
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
-  </a>
-  <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="racket" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
