@@ -1,6 +1,6 @@
 ### Welcome to my Github profile
 
-- 🌱 I'm currently learning more about Neural Networks and Computer Algebra.
+- 🌱 I'm currently learning more about Automata & Formal Languages and Quantum Computation.
 - 😄 Pronouns: He/him.
 
 📈 **My GitHub Stats:**
