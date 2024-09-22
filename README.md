@@ -68,4 +68,9 @@
   <a href="https://youtube.com/@curenosm5524?si=MkRV3t_Qudav70jy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
+  
+  <a href="https://linkedin.com/in/curenosm" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="curenosm" height="30" width="40" />
+  </a>
+
 </p>
