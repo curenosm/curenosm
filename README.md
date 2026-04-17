@@ -2,7 +2,6 @@
 
 - 🌱 I'm currently learning more about: Neural Networks.
 - 👀 I’m interested in: Diagrammatic Approaches and Gamification for Learning.
-- 💞️ I’m looking to collaborate on: Quantum Artificial Intelligence open source projects.
 - 😄 Pronouns: He/him.
 
 📈 **My GitHub Stats:**
